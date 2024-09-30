@@ -6,7 +6,8 @@ This is repository for the Multi-media Authoring 1 HW1 at Fanshawe college in fa
 **Background** 
 - I am from uttarakhand, india 
 
-**about my hobbies** 
+**About my hobbies**  
+<br>
 I am into sketching photography and videography 
 
 **my favourite website**
